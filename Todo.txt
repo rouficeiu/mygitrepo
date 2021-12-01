@@ -1,2 +1,4 @@
 1. Write an articl
 2. Add a code
+3. Add linux
+4. Add vmmware
